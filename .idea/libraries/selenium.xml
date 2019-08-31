@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="selenium">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/src/main" />
+      <root url="file://$PROJECT_DIR$/src/test" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
